@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "fullName": "a",
+      "dob": "2",
+      "gpa": "3",
+      "id": "15eb"
+    },
+    {
+      "id": "8dc2",
+      "fullName": "a",
+      "dob": "2",
+      "gpa": "3"
+    },
+    {
+      "id": "54aa",
+      "fullName": "b",
+      "dob": "2",
+      "gpa": "4"
+    }
+  ]
+}
